@@ -1,0 +1,2 @@
+# bootstrapped_mds
+Bootstrapped MDS: A Coordinate Search Algorithm for Multidimensional Scaling which optimizes Stress by evaluating the function multiple times over different coordinates but also bootstraping over previous successful iterations. With this algorithm there is a probability of evaluating the function alongside a coordinate step depending on the previous successful evaluations across this coordinate.
